@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class CadastroAluno {
     static void main(String[] args) {
         //variaveis
         String[] nomes = new String[10];
